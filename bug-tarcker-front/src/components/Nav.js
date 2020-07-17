@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navbar = props => {
     return (
-        <nav class="navbar navbar-expand-sm navbar-light bg-light">
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
             <a href="#" class="navbar-brand">Bug Tracker</a>
             <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
                 <span class="navbar-toggler-icon">
